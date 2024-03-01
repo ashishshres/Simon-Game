@@ -1,6 +1,6 @@
 # Simon Game🙈
 
-### 😊[Play live here](https://shrestha-ashish.github.io/Simon-Game/)
+### 😊[Play live here](https://ashishshres.github.io/Simon-Game/)
 
 ![](./images/1.png)
 ![](./images/2.png)
